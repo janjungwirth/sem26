@@ -1,0 +1,9 @@
+Suche im Internet nach folgenden Wissenschaftlichen Artikeln und Arbeiten: 
+
+Performance vergleich zwischen YOLO Objekterkennungsmodell versionen.
+
+Ich möchte eine Einleitung in das Thema schreiben mit hinblick zu: Wie unterscheiden sich YOLOv5, YOLOv8 und YOLO11 hinsichtlich Erkennungsgenauigkeit bei der Erkennung von Straßenschildern in europäischen Straßenumgebungen?
+
+Weiters möchte ich mich mit der Architektur hinter den verschiedenen versionen befassen, sowie auf die kennzahlen dieser versionen schreiben. 
+
+Warum ist es überhaupt ein menschheitsproblem, straßenschilder auf europäische straßen erkennen zu können?
